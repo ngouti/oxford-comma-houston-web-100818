@@ -6,4 +6,5 @@ elsif array.length == 2
 elsif array.length == 3
   array.map { |i| i.to_s }.join(" , ")
 end
+end
 

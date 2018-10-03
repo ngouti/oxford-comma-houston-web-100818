@@ -1,3 +1,3 @@
 def oxford_comma(array)
-array.map { |i| 
+array.map { |i| i.to_s
 end
